@@ -57,7 +57,7 @@ Le chiffre d’affaires présente des fluctuations avec quelques baisses marqué
 
 ## 🔹 Répartition par région
 
-Les ventes sont fortement concentrées sur certaines zones géographiques comme : .
+* Les ventes sont concentrées sur certaines zones géographiques comme : .
 * L'Europe de l’Ouest , l'Ouest de l'Amérique et l'Ouest de l'Asie 
   
 ### 📌 Interprétation
@@ -74,7 +74,7 @@ Les ventes sont fortement concentrées sur certaines zones géographiques comme 
 
 ## 🔹 Répartition par catégorie
 
-Les produits DShop by sport, Women's Apparel, Water sports, Men's footwear et Cleats, etc... se sont les catégories de produits qui dominent les ventes.
+* Les produits Shop by sport, Women's Apparel, Water sports, Men's footwear et Cleats, etc... se sont les catégories de produits qui dominent   les ventes.
 
 ### 📌 Interprétation
 
