@@ -127,7 +127,7 @@ Le volume de vente est élevé mais le profit reste modéré
 
 ### 🚨 Interprétation
 
-Plus d’une livraison sur deux est en retard → problème critique
+Plus d’une livraison sur deux est en retard → problèmatique
 
 ---
 
