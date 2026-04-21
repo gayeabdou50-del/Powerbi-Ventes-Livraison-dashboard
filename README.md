@@ -45,7 +45,7 @@ Cependant, la marge reste modérée (~10-11%), ce qui peut indiquer :
 
 ### 🔹 Évolution temporelle
 
-Le chiffre d’affaires présente des fluctuations avec quelques baisses marquées.
+Le chiffre d’affaires présente des fluctuations avec quelques baisses marquées
 
 ### 📌 Interprétation
 
@@ -105,7 +105,7 @@ Les catégories dominantes sont :
 
 ### 🔹 Profit vs Volume
 
-Le volume de vente est élevé mais le profit reste modéré.
+Le volume de vente est élevé mais le profit reste modéré
 
 ### 📌 Interprétation
 
@@ -179,7 +179,7 @@ Les délais sont irréguliers.
 
 ### 💡 Insight clé
 
-Les ventes sont performantes **mais** la logistique est défaillante.
+Les ventes sont performantes **mais** la logistique est défaillante
 
 ### 📌 Conséquence
 
