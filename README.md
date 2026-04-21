@@ -1,10 +1,8 @@
-# Powerbi-Ventes-Livraison-dashboard
-Projet Supply chain : Analyse des Ventes et des Livraisons
-# 📊 Analyse des ventes et des livraisons – Power BI
+# 📊 Power BI – Analyse des Ventes et des Livraisons
 
 ## 🔍 Objectif du projet
 
-Ce projet vise à analyser les performances commerciales et logistiques d’une entreprise afin d’identifier :
+Ce projet de Supply Chain vise à analyser les performances commerciales et logistiques afin d’identifier :
 
 * Les opportunités de croissance
 * Les inefficacités opérationnelles
@@ -12,18 +10,23 @@ Ce projet vise à analyser les performances commerciales et logistiques d’une 
 
 ---
 
-## 📊 Aperçu du dashboard (deux pages)
+## 📊 Aperçu du dashboard
 
-### 💰 Performances des ventes (page 1)
-### 📦 Analyse des livraisons (page 2)
+### 💰 Performances des ventes (Page 1)
+
+![Ventes](images/ventes.png)
+
+### 📦 Analyse des livraisons (Page 2)
+
+![Livraisons](images/livraisons.png)
 
 ---
 
 ## 📈 Analyse détaillée des résultats
 
-# 💰 1. Analyse des ventes
+## 💰 1. Analyse des ventes
 
-## 🔹 Vue globale
+### 🔹 Vue globale
 
 * Chiffre d’affaires : **36,78M**
 * Profit : **3,97M**
@@ -33,103 +36,116 @@ Ce projet vise à analyser les performances commerciales et logistiques d’une 
 ### 📌 Interprétation
 
 L’activité commerciale est globalement performante avec un volume de ventes élevé.
-Cependant, la marge reste relativement modérée (~10-11%), ce qui indique :
+Cependant, la marge reste modérée (~10-11%), ce qui peut indiquer :
 
 * des coûts élevés
-* et des produits à faible rentabilité
+* ou des produits à faible rentabilité
 
 ---
 
-## 🔹 Évolution temporelle
+### 🔹 Évolution temporelle
 
 Le chiffre d’affaires présente des fluctuations avec quelques baisses marquées.
 
 ### 📌 Interprétation
 
-* Cela est due à une présence de **saisonnalité**
-* Dépendance à certains événements (promotions, périodes fortes)
+* Présence probable de **saisonnalité**
+* Dépendance à certaines périodes (promotions, pics d’activité)
 
 ### ⚠️ Risque
 
-* Instabilité des revenus et cela engendre un impact negatif ou positif dans le business.
+* Instabilité des revenus
 
 ---
 
-## 🔹 Répartition par région
+### 🔹 Répartition par région
 
-* Les ventes sont concentrées sur certaines zones géographiques comme : .
-* L'Europe de l’Ouest , l'Ouest de l'Amérique et l'Ouest de l'Asie 
-  
+Les ventes sont concentrées sur certaines zones :
+
+* Europe de l’Ouest
+* Ouest de l’Amérique
+* Ouest de l’Asie
+
 ### 📌 Interprétation
 
-* Cela démontre une dépendance à des régions spécifiques.
-* Et une sous-exploitation de certains marchés comme l'Affrique
+* Forte dépendance à certaines régions
+* Sous-exploitation de marchés comme l’Afrique
 
-### 🎯 Recommandation
+### 🎯 Recommandations
 
 * Développer les régions à faible performance
-* Adapter la stratégie commerciale localement
+* Adapter les stratégies commerciales localement
 
 ---
 
-## 🔹 Répartition par catégorie
+### 🔹 Répartition par catégorie
 
-* Les produits Shop by sport, Women's Apparel, Water sports, Men's footwear et Cleats, etc... se sont les catégories de produits qui dominent   les ventes.
+Les catégories dominantes sont :
+
+* Shop by Sport
+* Women's Apparel
+* Water Sports
+* Men's Footwear
+* Cleats
 
 ### 📌 Interprétation
 
-* Forte dépendance à certains produits.
-* Pour plus de profit il faudra supprimer les produits qui rapporte pas et les remplacer par de nouveau produit.
+* Dépendance à certains produits
 
 ### ⚠️ Risque
 
 * Vulnérabilité en cas de baisse de la demande
 
+### 🎯 Recommandations
+
+* Identifier et supprimer les produits non rentables
+* Introduire de nouveaux produits plus performants
+
 ---
 
-## 🔹 Profit vs Volume
+### 🔹 Profit vs Volume
 
-Volume de vente élevé mais profit modéré.
+Le volume de vente est élevé mais le profit reste modéré.
 
 ### 📌 Interprétation
 
 * Marges faibles sur certains produits
-* Structure de coûts à optimiser
+* Coûts potentiellement élevés
 
-### 🎯 Recommandation
+### 🎯 Recommandations
 
-* Enlever les produits les moins rentables
-* Optimiser la stratégie de pricing
+* Optimiser les coûts
+* Améliorer la stratégie de pricing
 
 ---
 
-# 📦 2. Analyse des livraisons
+## 📦 2. Analyse des livraisons
 
-## 🔴 KPI critique
+### 🔴 KPI critique
 
 * Taux de retard : **54,82%**
 
 ### 🚨 Interprétation
 
-Plus d’une livraison sur deux est en retard → problème majeur
+Plus d’une livraison sur deux est en retard → problème critique
 
 ---
 
-## 🔹 Délai de livraison
+### 🔹 Délai de livraison
 
 * Délai moyen : **3,50 jours**
 * Retard moyen : **0,57 jour**
 
 ### 📌 Interprétation
 
-* Le système est globalement rapide
+* Système rapide
 * MAIS manque de fiabilité
 
 ---
 
-## 🔹 Variabilité des délais
+### 🔹 Variabilité des délais
 
-Les délais sont irréguliers et instables.
+Les délais sont irréguliers.
 
 ### 📌 Interprétation
 
@@ -138,24 +154,20 @@ Les délais sont irréguliers et instables.
 
 ---
 
-## 🔹 Modes d’expédition
-
-Certains modes sont plus performants que d’autres.
+### 🔹 Modes d’expédition
 
 ### 📌 Interprétation
 
 * Mauvaise allocation des ressources logistiques
 
-### 🎯 Recommandation
+### 🎯 Recommandations
 
-* Prioriser les modes d’expédition les plus fiables comme : Standard class et Same day.
+* Prioriser les modes fiables (Standard Class, Same Day)
 * Optimiser la chaîne logistique
 
 ---
 
-## 🔹 Impact business
-
-Les retards peuvent entraîner :
+### 🔹 Impact business
 
 * Insatisfaction client
 * Baisse de fidélité
@@ -163,52 +175,45 @@ Les retards peuvent entraîner :
 
 ---
 
-# 🔗 3. Analyse croisée (Aperçu commercial)
-## 💡 Aperçu clé
+## 🔗 3. Analyse croisée (Business Insight)
 
-Les ventes sont performantes MAIS la logistique est défaillante.
+### 💡 Insight clé
 
----
+Les ventes sont performantes **mais** la logistique est défaillante.
 
-## 📌 Conséquence
+### 📌 Conséquence
 
 * Bonne performance actuelle
-* Risque important à moyen terme
+* Risque à moyen terme
+
+### 🔴 Scénario
+
+Retards → insatisfaction → baisse fidélité → baisse ventes
 
 ---
 
-## 🔴 Scénario possible
+## 🎯 4. Recommandations stratégiques
 
-Retards → insatisfaction client → baisse fidélité → baisse ventes
+### 🔹 Priorité 1 : Logistique
 
----
-
-# 🎯 4. Recommandations stratégiques
-
-## 🔹 Priorité 1 : Logistique (critique)
-
-* Réduire les retards en confiant plus de livraison au transporteur plus rapide et fiable.
-* Analyser les causes (transport, distance, volume)
+* Réduire les retards
 * Optimiser les opérations
+* Améliorer la gestion des livraisons
 
----
-
-## 🔹 Priorité 2 : Rentabilité
+### 🔹 Priorité 2 : Rentabilité
 
 * Analyser les marges par produit
 * Réduire les coûts
 * Optimiser les prix
 
----
+### 🔹 Priorité 3 : Expansion
 
-## 🔹 Priorité 3 : Expansion
-
-* Développer les régions sous-performantes
-* Diversifier les sources de revenus
+* Développer les régions sous-exploitées
+* Diversifier les revenus
 
 ---
 
-# 🛠️ Outils utilisés
+## 🛠️ Outils utilisés
 
 * Power BI
 * Data Visualization
@@ -216,18 +221,12 @@ Retards → insatisfaction client → baisse fidélité → baisse ventes
 
 ---
 
-# 🚀 Améliorations futures
+## 📁 Données
 
-* Modèle de prédiction des retards (Machine Learning)
-* Analyse des coûts logistiques
-* Optimisation des routes de livraison
+* Source : Kaggle
 
 ---
 
-# 📁 Fichier
-
-* Source des données : Kaggle
-
-# 📁 Fichier
+## 📁 Fichier
 
 Le fichier `.pbix` est disponible dans ce repository.
