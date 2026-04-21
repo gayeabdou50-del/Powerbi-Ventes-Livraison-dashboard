@@ -58,7 +58,7 @@ Le chiffre d’affaires présente des fluctuations avec quelques baisses marqué
 ## 🔹 Répartition par région
 
 Les ventes sont fortement concentrées sur certaines zones géographiques comme : .
-* L'Europe de l’Ouest , l'Ouest de l'Amérique et l'Ouest de l'Asie
+* L'Europe de l’Ouest , l'Ouest de l'Amérique et l'Ouest de l'Asie 
   
 ### 📌 Interprétation
 
