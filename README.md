@@ -36,7 +36,7 @@ Ce projet de Supply Chain vise à analyser les performances commerciales et logi
 ### 📌 Interprétation
 
 L’activité commerciale est globalement performante avec un volume de ventes élevé.
-Cependant, la marge reste modérée (~10-11%), ce qui peut indiquer :
+Mais le profit reste modérée (~10-11%), ce qui peut indiquer :
 
 * des coûts élevés
 * ou des produits à faible rentabilité
